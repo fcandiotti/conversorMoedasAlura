@@ -34,5 +34,5 @@ function converterEuro () {
 
   elementValueConverter.innerHTML = valueConverter;
   elementValueConverterBTC.innerHTML = valueConverterBTC;
-
+  
 }
